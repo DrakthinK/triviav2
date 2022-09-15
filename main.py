@@ -83,7 +83,7 @@ def options():
             os.system('clear')
             print ('============================================PREGUNTA1==================================')
             print('[+]¿Cuales de las opciones tienen por caracteristicas el leguaje de programacion python?||')
-            print ('[01] Copilado,Estaticamente Tipado,Debilmente Tipado                                   ||')
+            print ('[01] compilado ,Estaticamente Tipado,Debilmente Tipado                                   ||')
             print ('[02] Debilmente Tipado,Dinamicamente Tipado,interpretado                               ||')
             print ('[03] Interpretado,Dinamicamente Tipado,Fuertemente Tipado                              ||')
             print ('[04] Salir                                                                             ||')
